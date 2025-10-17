@@ -22,6 +22,20 @@
 
 **CIRCUIT DIAGRAM:**
 
+https://drive.google.com/file/d/1gwoltIJbZwgLoLkGa_0Fl_WWC-PTzDfL/view?usp=sharing
+https://drive.google.com/file/d/1-MgAjAch-LTHVksUK8B3V6C-cpEY2hQb/view?usp=sharing
+
+
+**TABULATION/CALCULATION:**
+
+https://drive.google.com/file/d/12F0mjSW0WnFN_PEeDSXr4UZ-a-9VvJqc/view?usp=sharing
+
+
+**MARK SPLITUP:**
+
+https://drive.google.com/file/d/1rmzkdazV8MjzISByDP-ApEs66xGtYa5o/view?usp=sharing
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
